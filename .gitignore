@@ -1,0 +1,6 @@
+__pycache__
+meeting_scheduler/.vscode
+meeting_scheduler/main
+meeting_scheduler/src/*.o
+meeting_scheduler/src/tools/*.o
+meeting_scheduler/src/util/*.o
